@@ -10,7 +10,7 @@ export const INIT_PERMISSIONS = [
         "module": "COMPANIES",
         "createdBy": {
             "_id": "647b5108a8a243e8191855b5",
-            "email": "hoidanit@gmail.com"
+            "email": "minhho3008@gmail.com"
         },
         "isDeleted": false,
         "deletedAt": null,
@@ -19,7 +19,7 @@ export const INIT_PERMISSIONS = [
         "__v": 0,
         "updatedBy": {
             "_id": "647b5108a8a243e8191855b5",
-            "email": "hoidanit@gmail.com"
+            "email": "minhho3009@gmail.com"
         }
     },
     {
@@ -30,7 +30,7 @@ export const INIT_PERMISSIONS = [
         "module": "COMPANIES",
         "createdBy": {
             "_id": "647b5108a8a243e8191855b5",
-            "email": "hoidanit@gmail.com"
+            "email": "minhho3010@gmail.com"
         },
         "isDeleted": false,
         "deletedAt": null,
@@ -46,7 +46,7 @@ export const INIT_PERMISSIONS = [
         "module": "COMPANIES",
         "createdBy": {
             "_id": "647b5108a8a243e8191855b5",
-            "email": "hoidanit@gmail.com"
+            "email": "minhho3011@gmail.com"
         },
         "isDeleted": false,
         "deletedAt": null,
@@ -62,7 +62,7 @@ export const INIT_PERMISSIONS = [
         "module": "COMPANIES",
         "createdBy": {
             "_id": "647b5108a8a243e8191855b5",
-            "email": "hoidanit@gmail.com"
+            "email": "minhho3012@gmail.com"
         },
         "isDeleted": false,
         "deletedAt": null,
@@ -78,7 +78,7 @@ export const INIT_PERMISSIONS = [
         "module": "COMPANIES",
         "createdBy": {
             "_id": "647b5108a8a243e8191855b5",
-            "email": "hoidanit@gmail.com"
+            "email": "minhho3013@gmail.com"
         },
         "isDeleted": false,
         "deletedAt": null,
@@ -94,7 +94,7 @@ export const INIT_PERMISSIONS = [
         "module": "USERS",
         "createdBy": {
             "_id": "647b5108a8a243e8191855b5",
-            "email": "hoidanit@gmail.com"
+            "email": "minhho3014@gmail.com"
         },
         "isDeleted": false,
         "deletedAt": null,
@@ -110,7 +110,7 @@ export const INIT_PERMISSIONS = [
         "module": "USERS",
         "createdBy": {
             "_id": "647b5108a8a243e8191855b5",
-            "email": "hoidanit@gmail.com"
+            "email": "minhho3014@gmail.com"
         },
         "isDeleted": false,
         "deletedAt": null,
@@ -126,7 +126,7 @@ export const INIT_PERMISSIONS = [
         "module": "USERS",
         "createdBy": {
             "_id": "647b5108a8a243e8191855b5",
-            "email": "hoidanit@gmail.com"
+            "email": "minhho3015@gmail.com"
         },
         "isDeleted": false,
         "deletedAt": null,
@@ -142,7 +142,7 @@ export const INIT_PERMISSIONS = [
         "module": "USERS",
         "createdBy": {
             "_id": "647b5108a8a243e8191855b5",
-            "email": "hoidanit@gmail.com"
+            "email": "minhho3016@gmail.com"
         },
         "isDeleted": false,
         "deletedAt": null,
@@ -158,7 +158,7 @@ export const INIT_PERMISSIONS = [
         "module": "USERS",
         "createdBy": {
             "_id": "647b5108a8a243e8191855b5",
-            "email": "hoidanit@gmail.com"
+            "email": "minhho3017@gmail.com"
         },
         "isDeleted": false,
         "deletedAt": null,
@@ -174,7 +174,7 @@ export const INIT_PERMISSIONS = [
         "module": "FILES",
         "createdBy": {
             "_id": "647b5108a8a243e8191855b5",
-            "email": "hoidanit@gmail.com"
+            "email": "minhho3018@gmail.com"
         },
         "isDeleted": false,
         "deletedAt": null,
@@ -190,7 +190,7 @@ export const INIT_PERMISSIONS = [
         "module": "JOBS",
         "createdBy": {
             "_id": "647b5108a8a243e8191855b5",
-            "email": "hoidanit@gmail.com"
+            "email": "minhho3019@gmail.com"
         },
         "isDeleted": false,
         "deletedAt": null,
@@ -206,7 +206,7 @@ export const INIT_PERMISSIONS = [
         "module": "JOBS",
         "createdBy": {
             "_id": "647b5108a8a243e8191855b5",
-            "email": "hoidanit@gmail.com"
+            "email": "minhho3020@gmail.com"
         },
         "isDeleted": false,
         "deletedAt": null,
@@ -222,7 +222,7 @@ export const INIT_PERMISSIONS = [
         "module": "JOBS",
         "createdBy": {
             "_id": "647b5108a8a243e8191855b5",
-            "email": "hoidanit@gmail.com"
+            "email": "minhho3021@gmail.com"
         },
         "isDeleted": false,
         "deletedAt": null,
@@ -238,7 +238,7 @@ export const INIT_PERMISSIONS = [
         "module": "JOBS",
         "createdBy": {
             "_id": "647b5108a8a243e8191855b5",
-            "email": "hoidanit@gmail.com"
+            "email": "minhho3022@gmail.com"
         },
         "isDeleted": false,
         "deletedAt": null,
@@ -254,7 +254,7 @@ export const INIT_PERMISSIONS = [
         "module": "JOBS",
         "createdBy": {
             "_id": "647b5108a8a243e8191855b5",
-            "email": "hoidanit@gmail.com"
+            "email": "minhho3023@gmail.com"
         },
         "isDeleted": false,
         "deletedAt": null,
@@ -270,7 +270,7 @@ export const INIT_PERMISSIONS = [
         "module": "RESUMES",
         "createdBy": {
             "_id": "647b5108a8a243e8191855b5",
-            "email": "hoidanit@gmail.com"
+            "email": "minhho3024@gmail.com"
         },
         "isDeleted": false,
         "deletedAt": null,
@@ -286,7 +286,7 @@ export const INIT_PERMISSIONS = [
         "module": "RESUMES",
         "createdBy": {
             "_id": "647b5108a8a243e8191855b5",
-            "email": "hoidanit@gmail.com"
+            "email": "minhho3025@gmail.com"
         },
         "isDeleted": false,
         "deletedAt": null,
@@ -302,7 +302,7 @@ export const INIT_PERMISSIONS = [
         "module": "RESUMES",
         "createdBy": {
             "_id": "647b5108a8a243e8191855b5",
-            "email": "hoidanit@gmail.com"
+            "email": "minhho3026@gmail.com"
         },
         "isDeleted": false,
         "deletedAt": null,
@@ -318,7 +318,7 @@ export const INIT_PERMISSIONS = [
         "module": "RESUMES",
         "createdBy": {
             "_id": "647b5108a8a243e8191855b5",
-            "email": "hoidanit@gmail.com"
+            "email": "minhho3027@gmail.com"
         },
         "isDeleted": false,
         "deletedAt": null,
@@ -334,7 +334,7 @@ export const INIT_PERMISSIONS = [
         "module": "RESUMES",
         "createdBy": {
             "_id": "647b5108a8a243e8191855b5",
-            "email": "hoidanit@gmail.com"
+            "email": "minhho3028@gmail.com"
         },
         "isDeleted": false,
         "deletedAt": null,
@@ -350,7 +350,7 @@ export const INIT_PERMISSIONS = [
         "module": "RESUMES",
         "createdBy": {
             "_id": "647b5108a8a243e8191855b5",
-            "email": "hoidanit@gmail.com"
+            "email": "minhho3029@gmail.com"
         },
         "isDeleted": false,
         "deletedAt": null,
@@ -366,7 +366,7 @@ export const INIT_PERMISSIONS = [
         "module": "PERMISSIONS",
         "createdBy": {
             "_id": "647b5108a8a243e8191855b5",
-            "email": "hoidanit@gmail.com"
+            "email": "minhho3030@gmail.com"
         },
         "isDeleted": false,
         "deletedAt": null,
@@ -382,7 +382,7 @@ export const INIT_PERMISSIONS = [
         "module": "PERMISSIONS",
         "createdBy": {
             "_id": "647b5108a8a243e8191855b5",
-            "email": "hoidanit@gmail.com"
+            "email": "minhho3031@gmail.com"
         },
         "isDeleted": false,
         "deletedAt": null,
@@ -398,7 +398,7 @@ export const INIT_PERMISSIONS = [
         "module": "PERMISSIONS",
         "createdBy": {
             "_id": "647b5108a8a243e8191855b5",
-            "email": "hoidanit@gmail.com"
+            "email": "minhho3032@gmail.com"
         },
         "isDeleted": false,
         "deletedAt": null,
@@ -414,7 +414,7 @@ export const INIT_PERMISSIONS = [
         "module": "PERMISSIONS",
         "createdBy": {
             "_id": "647b5108a8a243e8191855b5",
-            "email": "hoidanit@gmail.com"
+            "email": "minhho3033@gmail.com"
         },
         "isDeleted": false,
         "deletedAt": null,
@@ -430,7 +430,7 @@ export const INIT_PERMISSIONS = [
         "module": "PERMISSIONS",
         "createdBy": {
             "_id": "647b5108a8a243e8191855b5",
-            "email": "hoidanit@gmail.com"
+            "email": "minhho3034@gmail.com"
         },
         "isDeleted": false,
         "deletedAt": null,
@@ -446,7 +446,7 @@ export const INIT_PERMISSIONS = [
         "module": "ROLES",
         "createdBy": {
             "_id": "647b5108a8a243e8191855b5",
-            "email": "hoidanit@gmail.com"
+            "email": "minhho3035@gmail.com"
         },
         "isDeleted": false,
         "deletedAt": null,
@@ -462,7 +462,7 @@ export const INIT_PERMISSIONS = [
         "module": "ROLES",
         "createdBy": {
             "_id": "647b5108a8a243e8191855b5",
-            "email": "hoidanit@gmail.com"
+            "email": "minhho3036@gmail.com"
         },
         "isDeleted": false,
         "deletedAt": null,
@@ -478,7 +478,7 @@ export const INIT_PERMISSIONS = [
         "module": "ROLES",
         "createdBy": {
             "_id": "647b5108a8a243e8191855b5",
-            "email": "hoidanit@gmail.com"
+            "email": "minhho3037@gmail.com"
         },
         "isDeleted": false,
         "deletedAt": null,
@@ -494,7 +494,7 @@ export const INIT_PERMISSIONS = [
         "module": "ROLES",
         "createdBy": {
             "_id": "647b5108a8a243e8191855b5",
-            "email": "hoidanit@gmail.com"
+            "email": "minhho3038@gmail.com"
         },
         "isDeleted": false,
         "deletedAt": null,
@@ -510,7 +510,7 @@ export const INIT_PERMISSIONS = [
         "module": "ROLES",
         "createdBy": {
             "_id": "647b5108a8a243e8191855b5",
-            "email": "hoidanit@gmail.com"
+            "email": "minhho3039@gmail.com"
         },
         "isDeleted": false,
         "deletedAt": null,
