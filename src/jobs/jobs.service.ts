@@ -15,6 +15,12 @@ export class JobsService {
     private jobModel: SoftDeleteModel<JobDocument>,
   ) {}
 
+  /**
+   * Tạo một công việc mới
+   * @param createJobDto - Dữ liệu để tạo công việc
+   * @param user - Thông tin người dùng tạo công việc
+   * @returns Promise<Job> - Công việc vừa được tạo
+   */
   create(createJobDto: CreateJobDto, user: IUser) {
     const {
       name, skills, company, salary, quantity,
@@ -32,6 +38,13 @@ export class JobsService {
     });
   }
 
+  /**
+   * Lấy danh sách tất cả công việc với phân trang và lọc
+   * @param currentPage - Trang hiện tại
+   * @param limit - Số lượng bản ghi mỗi trang
+   * @param qs - Query string để lọc và sắp xếp dữ liệu
+   * @returns Promise<Object> - Object chứa metadata và danh sách kết quả
+   */
   async findAll(currentPage: number, limit: number, qs: string) {
     const { filter, sort, population } = aqp(qs);
     delete filter.current;
@@ -62,13 +75,25 @@ export class JobsService {
     };
   }
 
+  /**
+   * Tìm một công việc theo ID
+   * @param id - ID của công việc cần tìm
+   * @returns Promise<Job | string> - Công việc tìm được hoặc thông báo lỗi
+   */
   async findOne(id: string) {
     if (mongoose.Types.ObjectId.isValid(id)) {
-      return await this.jobModel.findById(id); 
+      return await this.jobModel.findById(id);
     }
     return 'Not found job';
   }
 
+  /**
+   * Cập nhật thông tin công việc
+   * @param id - ID của công việc cần cập nhật
+   * @param updateJobDto - Dữ liệu cập nhật
+   * @param user - Thông tin người dùng thực hiện cập nhật
+   * @returns Promise<UpdateResult> - Kết quả của việc cập nhật
+   */
   async update(id: string, updateJobDto: UpdateJobDto, user: IUser) {
     return await this.jobModel.updateOne(
       { _id: id },
@@ -82,6 +107,12 @@ export class JobsService {
     );
   }
 
+  /**
+   * Xóa mềm một công việc (soft delete)
+   * @param id - ID của công việc cần xóa
+   * @param user - Thông tin người dùng thực hiện xóa
+   * @returns Promise<any> - Kết quả của việc xóa mềm
+   */
   async remove(id: string, user: IUser) {
     await this.jobModel.updateOne(
       { _id: id },
